@@ -36,15 +36,6 @@
 To become a skilled Software Engineer by continuously learning, building projects, and solving real-world problems.
 ⭐ Goal for 2028
 Build real-world projects, contribute to open source, and secure a Software Engineer role in a product-based company.
-## 📂 Featured Repositories
-
-- [C-Programs](https://github.com/ShwethaUdyal/C-Programs)
-- [Java-Programs](https://github.com/ShwethaUdyal/Java-Programs)
-- [Python-Programs](https://github.com/ShwethaUdyal/Python-Programs)
-- [DSA-Java](https://github.com/ShwethaUdyal/DSA-Java)
-- [SQL-Practice](https://github.com/ShwethaUdyal/SQL-Practice)
-- [Web-Development](https://github.com/ShwethaUdyal/Web-Development)
-- [Mini-Projects](https://github.com/ShwethaUdyal/Mini-Projects)
 
 ## 📫 Connect with Me
 - GitHub: https://github.com/ShwethaUdyal
