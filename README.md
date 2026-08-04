@@ -25,12 +25,19 @@
 
 ## 📂 Featured Repositories
 - C-Programs
+  https://github.com/ShwethaUdyal/C-Programs
 - Java-Programs
+  https://github.com/ShwethaUdyal/Java-Programs
 - Python-Programs
+  https://github.com/ShwethaUdyal/Python-Programs
 - DSA-Java
+  https://github.com/ShwethaUdyal/DSA-Java
 - SQL-Practice
+  https://github.com/ShwethaUdyal/SQL-Practice
 - Web-Development
+  https://github.com/ShwethaUdyal/Web-Development
 - Mini-Projects
+  https://github.com/ShwethaUdyal/Mini-Projects
 
 ## 🎯 Career Goal
 To become a skilled Software Engineer by continuously learning, building projects, and solving real-world problems.
